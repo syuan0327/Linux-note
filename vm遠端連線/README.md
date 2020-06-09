@@ -1,11 +1,11 @@
 ## VM遠端連線
-* *如果滑鼠卡在vm裡可以按ctrl回到實體機*
+*如果滑鼠卡在vm裡可以按ctrl回到實體機*
 
 1.先將虛擬機關閉
 
 去設定>顯示>遠端顯示>按啟用伺服器
 
-* *埠號可以自己設*
+*埠號可以自己設*
 ![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/1.jpg)
  
 2.開啟虛擬機
