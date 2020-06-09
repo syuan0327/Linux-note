@@ -19,8 +19,8 @@
 查找ip 資訊
 ![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/4.jpg)
 並尋找有區域連線的網路卡
-![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/5.jpg)
-開啟遠端桌面連線，輸入ip位址
 ![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/6.jpg)
-即可遠端連線
+開啟遠端桌面連線，輸入ip位址
 ![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/7.jpg)
+即可遠端連線
+![GITHUB](https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/8.jpg)
