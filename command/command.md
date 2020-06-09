@@ -2,6 +2,10 @@
 
 管理者的提示符號#
 
-yum install：在linux 安裝東西
+![GITHUB]( https://github.com/syuan0327/Linux-note/blob/master/command/%E6%93%B7%E5%8F%96.JPG )
 
 ifconfig在linux上查找ip
+
+![GITHUB]( https://github.com/syuan0327/Linux-note/blob/master/command/%E6%93%B7%E5%8F%962.JPG )
+
+yum install：在linux 安裝東西
