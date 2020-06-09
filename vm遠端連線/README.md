@@ -6,17 +6,18 @@
 去設定>顯示>遠端顯示>按啟用伺服器
 
 *埠號可以自己設*
+
 <img src="https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/1.jpg" width="50%" height="50%">
  
 2.開啟虛擬機
 
 3.去實體機的命令提示字元
 
-圈起處代表尋找實體機已用阜號
+圈起處代表尋找實體機已用埠號
 
 <img src="https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/2.jpg" width="50%" height="50%">
 
-找尋有445的戶號
+找尋有445的埠號
 
 <img src="https://github.com/syuan0327/Linux-note/blob/master/vm%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A/3.jpg" width="50%" height="50%">
 
