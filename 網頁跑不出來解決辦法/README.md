@@ -26,5 +26,3 @@ a.開啟gedit /etc/resolv.conf
 然後可以自己加nameserver
 
 Ex:nameserver 4.4.4.4
-
-￼
