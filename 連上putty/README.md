@@ -33,13 +33,7 @@ systemctl stop firewalls
 #### 四、putty部分
 打開putty輸入剛剛找到的ip 
 
-進入黑色頁面
-
 輸入帳號密碼
-￼
+
 #### 五、google部分
 輸入剛剛的ip/hi.htm
-￼
-
-
-
