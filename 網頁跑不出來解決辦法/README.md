@@ -7,7 +7,6 @@
 先用ifconfig找出自己的位址
 
 #### 3.ip route show:查看內定路由位址
-￼
 a.內定路由位置：
 
 b.Ping 內定路由位址
