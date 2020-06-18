@@ -39,9 +39,9 @@ systemctl stop firewalls
 
 輸入帳號密碼
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/%E9%80%A3%E4%B8%8Aputty/3.JPG" width="80%" height="80%">
+<img src="https://github.com/syuan0327/Linux-note/blob/master/%E9%80%A3%E4%B8%8Aputty/3.JPG" width="60%" height="60%">
 
 #### 五、google部分
 輸入剛剛的"ip"+/syuan.htm
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/%E9%80%A3%E4%B8%8Aputty/4.JPG" width="80%" height="80%">
+<img src="https://github.com/syuan0327/Linux-note/blob/master/%E9%80%A3%E4%B8%8Aputty/4.JPG" width="60%" height="60%">
