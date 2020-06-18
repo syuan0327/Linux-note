@@ -7,17 +7,15 @@
 先用ifconfig找出自己的位址
 
 #### 3.ip route show:查看內定路由位址
-￼a.內定路由位置：
+￼
+a.內定路由位置：
 
 b.Ping 內定路由位址
-
 #### 4.ping 外面提供的dns伺服器ip位址
 goole的 => ping 8.8.8.8
 
 或著直接ping tw.yahoo.com
 
-
-￼
 #### 5.新增nameserver
 a.開啟gedit /etc/resolv.conf
 
