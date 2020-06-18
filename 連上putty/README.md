@@ -36,9 +36,8 @@ systemctl stop firewalls
 進入黑色頁面
 
 輸入帳號密碼
-
 ￼
-#### 五google部分
+#### 五、google部分
 輸入剛剛的ip/hi.htm
 ￼
 
