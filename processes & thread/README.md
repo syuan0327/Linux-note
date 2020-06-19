@@ -4,7 +4,7 @@ process 行程：a running program
 
 <img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/1.JPG" width = 50% height=50%>
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/5.JPG" width = 50% height=50%>
+<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/5.jpg" width = 50% height=50%>
 
 #### [多工]
 
