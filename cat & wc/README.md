@@ -22,7 +22,7 @@ cat -n => 列出行數及內容
 
 e. cat /etc/passwd | grep 'bash$' | grep -v "root" | awk -F: '{print $1}' => 列出linux系統當中使用者之資訊
 
-<img src ="https://github.com/syuan0327/Linux-note/blob/master/cat%20%26%20wc/˙.JPG" width=50% height=50%>
+<img src ="https://github.com/syuan0327/Linux-note/blob/master/cat%20%26%20wc/.JPG" width=50% height=50%>
 
 #### 二、wc(word count統計字數)
 a. wc 2.txt
