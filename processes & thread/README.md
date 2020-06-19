@@ -28,7 +28,7 @@ root的ps -f
 
 <img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/3.JPG" width = 50% height=50%>
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/7.jpg" width = 50% height=50%>
+<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/7.jpg" width = 40% height=40%>
 
 活用行程列表ps
 
@@ -38,4 +38,4 @@ python -m SimpleHTTPServer 80 => 建立一網頁伺服器
 
 如果要從建一個必須先kill前一個
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/8.JPG" width = 50% height=50%>
+<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/8.JPG" width = 70% height=70%>
