@@ -22,13 +22,13 @@ PID = parent process id
 
 user的ps -f
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/6.JPG" width = 50% height=50%>
+<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/6.jpg" width = 50% height=50%>
 
 root的ps -f
 
 <img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/3.JPG" width = 50% height=50%>
 
-<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/7.JPG" width = 50% height=50%>
+<img src="https://github.com/syuan0327/Linux-note/blob/master/processes%20%26%20thread/7.jpg" width = 50% height=50%>
 
 活用行程列表ps
 
